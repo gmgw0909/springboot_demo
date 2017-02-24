@@ -1,0 +1,10 @@
+body {
+    background-color: aqua;
+    font-size: 60px;
+    font-family: Consolas;
+}
+
+p {
+    margin-top: 130px;
+    text-align: center;
+}
